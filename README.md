@@ -16,7 +16,7 @@ This project demonstrates practical SQL skills used in real-world Data Analysis 
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 - MySQL
 - SQL Queries
@@ -24,7 +24,7 @@ This project demonstrates practical SQL skills used in real-world Data Analysis 
 
 ---
 
-# 📂 Database Used
+#  Database Used
 
 Database Name: `ecommerce`
 
@@ -71,6 +71,5 @@ order by sum(profit) desc;
 select Category, round(sum(profit))
 from saless
 group by Category
-```
-
 order by sum(profit) desc;
+```
