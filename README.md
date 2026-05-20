@@ -75,12 +75,12 @@ order by sum(profit) desc;
 ```
 
 ### 📈 Additional Analysis Performed
-Average Profit Analysis
-Average Sales Analysis
-Quantity Analysis
-Distinct Categories & Regions
-High Sales Products
-High Profit Products
-Sales Range Filtering
-Minimum & Maximum Sales/Profit
-Total Sales & Profit Calculation
+- Average Profit Analysis
+- Average Sales Analysis
+- Quantity Analysis
+- Distinct Categories & Regions
+- High Sales Products
+- High Profit Products
+- Sales Range Filtering
+- Minimum & Maximum Sales/Profit
+- Total Sales & Profit Calculation
