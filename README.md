@@ -40,7 +40,7 @@ select category, sum(sales)
 from saless
 group by category
 order by sum(sales) desc;
-
+```
 
 
 ## 2️⃣ Product-wise Total Sales
@@ -49,6 +49,7 @@ select ProductName, sum(sales)
 from saless
 group by ProductName
 order by sum(sales) desc;
+```
 
  ## 3️⃣ Region-wise Total Sales
 ``` sql
@@ -56,15 +57,20 @@ select Region, sum(sales)
 from saless
 group by Region
 order by sum(sales) desc;
+```
 
-4️⃣ Region-wise Total Profit
+## 4️⃣ Region-wise Total Profit
+``` sql
 select Region, round(sum(profit))
 from saless
 group by Region
 order by sum(profit) desc;
-
-5️⃣ Category-wise Total Profit
+```
+## 5️⃣ Category-wise Total Profit
+``` sql
 select Category, round(sum(profit))
 from saless
 group by Category
+```
+
 order by sum(profit) desc;
