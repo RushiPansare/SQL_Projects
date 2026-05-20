@@ -41,13 +41,17 @@ from saless
 group by category
 order by sum(sales) desc;
 
-2️⃣ Product-wise Total Sales
+
+
+## 2️⃣ Product-wise Total Sales
+```sql
 select ProductName, sum(sales)
 from saless
 group by ProductName
 order by sum(sales) desc;
 
-3️⃣ Region-wise Total Sales
+ ## 3️⃣ Region-wise Total Sales
+``` sql
 select Region, sum(sales)
 from saless
 group by Region
