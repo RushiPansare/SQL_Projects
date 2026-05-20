@@ -86,3 +86,20 @@ order by sum(profit) desc;
 - Sales Range Filtering
 - Minimum & Maximum Sales/Profit
 - Total Sales & Profit Calculation
+
+-----
+
+🚀 How to Run This Project
+
+- Install MySQL
+- Create database:
+``` sql
+create database ecommerce;
+ ```
+- Use database:
+``` sql
+use ecommerce;
+```
+
+- Create table and import dataset
+- Run SQL queries from the project file
