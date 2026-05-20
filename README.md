@@ -1,6 +1,6 @@
-# 🛒 E-Commerce Sales Data Analysis using MySQL
+## 🛒 E-Commerce Sales Data Analysis using MySQL
 
-## 📌 Project Overview
+### 📌 Project Overview
 This project focuses on analyzing E-Commerce sales data using MySQL queries.
 
 The main objective of this project is to extract meaningful business insights such as:
