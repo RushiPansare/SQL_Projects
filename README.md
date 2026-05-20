@@ -74,6 +74,8 @@ group by Category
 order by sum(profit) desc;
 ```
 
+----
+
 ### 📈 Additional Analysis Performed
 - Average Profit Analysis
 - Average Sales Analysis
