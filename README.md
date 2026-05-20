@@ -103,3 +103,14 @@ use ecommerce;
 
 - Create table and import dataset
 - Run SQL queries from the project file
+
+---
+
+📁 Project Structure
+``` sql
+Ecommerce-Data-Analysis/
+│
+├── ecommerce_analysis.sql
+├── dataset.csv
+├── README.md
+```
