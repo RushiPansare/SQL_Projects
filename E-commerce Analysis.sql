@@ -132,3 +132,7 @@ select category,round(sum(profit))
 from saless
 group by category
 order by sum(profit) desc;
+
+
+
+swl apa a ahu
