@@ -24,7 +24,7 @@ def division():
     
     
  
-#sum()
-#subtraction()
-#multiplication()
+sum()
+subtraction()
+multiplication()
 division()
