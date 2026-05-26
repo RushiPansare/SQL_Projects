@@ -1,1 +1,1 @@
-print("Hello pala")
+a=int("Enter a number")
