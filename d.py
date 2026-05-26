@@ -1,3 +1,1 @@
-print("Hello")
-
-print("Hello chala vhala")
+a=int("Enter a number")
